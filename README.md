@@ -14,11 +14,13 @@ I created the sales analysis dashboard in order to provide insights to optimize 
 3. Preparing data for team discussion to improve sales process and implement strategy to boost sales.
 
 
-## TOOLS: Microsoft Excel, Power BI
+## TOOLS: 
+Microsoft Excel, Power BI
 
 
 ## DATA SOURCE
 Datasets from company database. [Click here for the data source sample](https://drive.google.com/drive/folders/10fn9kKjd0Fi7dr-zZhTblqar6SNff-8F?usp=sharing)
+
 (Disclaimer: The datasets used were adjusted due to private and confidential)
 
 
